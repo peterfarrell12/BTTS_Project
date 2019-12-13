@@ -1,26 +1,22 @@
-This file includes:
-
-
 <b>Original Datasets</b>:
 
 -Dataset 1.csv
 -Dataset 2.csv
 
 
-Engineered Dataset:
+<b>Engineered Dataset</b>:
 
 -pl_data.csv
 
 
-Data Cleaning Script:
+<b>Data Cleaning Script</b>:
 
 -Premier League Data Cleaning Script.ipynb
 
-
-Random Forest & Naive Bayes Script:
+<b>Random Forest & Naive Bayes Script</b>:
 
 -Premier League RFC and NB Classifiers.ipynb
 
-Neural Network Script:
+<b>Neural Network Script</b>:
 
 -Premier League Predictor Neural Network.ipynb
